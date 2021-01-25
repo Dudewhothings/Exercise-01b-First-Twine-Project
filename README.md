@@ -1,4 +1,4 @@
-# Exercise-01b-First-Twine-Project
+# Dudewhothings Exercise-01b-First-Twine-Project
 Exercise for MSCH-C220, 25 January 2021
 
 A demonstration of this exercise is available here: [https://youtu.be/qkRe_L_nuC4](https://youtu.be/qkRe_L_nuC4)
